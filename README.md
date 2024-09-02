@@ -1,3 +1,3 @@
-# CAS-ARE
+# CAS Agile Project Simulation
 
-Deployment Demo for CAS ARE
+Deploy your mockups with DevOps exercise
